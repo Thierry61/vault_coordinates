@@ -7,7 +7,7 @@ Find your star in the galaxy (or more prosaically your node in the XOR space) by
 
 This returns the (x, y) coordinates of your vault. For example:
 
-./target/debug/vault_coordinates.exe 9ecfa3..
+./target/debug/vault_coordinates 9ecfa3..
 
 returns (x, y) = (107, 187)
 
