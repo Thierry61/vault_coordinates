@@ -1,0 +1,7 @@
+[package]
+name = "vault_coordinates"
+version = "0.1.0"
+authors = ["Thierry61"]
+
+[dependencies]
+rustc-serialize = "*"
