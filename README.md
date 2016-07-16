@@ -11,3 +11,5 @@ This returns the (x, y) coordinates of your vault. For example:
 
 returns (x, y) = (107, 187)
 
+The vault id is visible in the routing table size lines of the vault log. For example,
+in **Node(9ecfa3..)  PeerId(08da..) - Routing Table size: 15** the vault id is **9ecfa3**
